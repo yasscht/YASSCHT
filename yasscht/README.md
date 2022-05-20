@@ -1,4 +1,4 @@
-# Hi there, I'm Yassine - aka [codeSTACKr][youtube] 👋
+# Hi there, I'm Yassine 👋
 
 ## I'm a Software Engineer!!
 
