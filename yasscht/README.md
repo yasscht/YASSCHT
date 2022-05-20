@@ -45,7 +45,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Yassine CHTIAA GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yasscht&count_private=true" />
+  <img align="left" alt="Yassine CHTIAA GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yassine.chtiaa@etu.uae.ac.ma&count_private=true" />
 
 </details>
 [instagram]: https://www.instagram.com/chtiaayassine/
