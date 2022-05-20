@@ -42,11 +42,5 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Yassine CHTIAA GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yassine.chtiaa@etu.uae.ac.ma&count_private=true" />
-
-</details>
 [instagram]: https://www.instagram.com/chtiaayassine/
 [linkedin]: https://www.linkedin.com/in/yassine-chtiaa-32a34b200/
